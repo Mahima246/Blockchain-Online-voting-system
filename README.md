@@ -10,10 +10,8 @@ A decentralized voting system where a user can walk into a government authorized
 ## Technologies
 
  - Azure Blockchain
- - Aadhaar API service (for biometric authentication)
  - Python (to communicate with blockchain and for backend and frontend API calls) 
  - Truffle (provides tools to create and test smart contracts)
  - Ganache (to create private blockchain network for testing on localhost) 
  - Flask (web framework)
- - Docker (deployment of portal on the cloud)
 ]
